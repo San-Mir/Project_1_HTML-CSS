@@ -1,4 +1,4 @@
-[https://github.com/San-Mir/Project_1_HTML-CSS/blob/main/assets/CAB%20Logo.png?raw=true](https://raw.githubusercontent.com/San-Mir/Project_1_HTML-CSS/main/assets/CAB%20Logo.png)
+![CAB Logo](https://github.com/San-Mir/Project_1_HTML-CSS/assets/7897103/26374868-ab9f-4757-85f4-fdc812004219)
 
 # The Curriculum
 
